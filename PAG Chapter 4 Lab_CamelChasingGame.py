@@ -79,9 +79,5 @@ while not(done):
         drinks_in_canteens = 3
         camel_tiredness = 0
 
-#need to adjust values because "natives are getting close" message will never show
-#oasis does not refill canteens to 3
-#need find a way so that native have caught up and natives are getting close message dont both come up
-
        
         
